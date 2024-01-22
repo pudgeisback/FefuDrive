@@ -1,0 +1,6 @@
+﻿  ConsoleApplication13.cpp
+C:\Users\koche\source\repos\ConsoleApplication13\ConsoleApplication13.cpp(77,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\koche\source\repos\ConsoleApplication13\ConsoleApplication13.cpp(113,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\koche\source\repos\ConsoleApplication13\ConsoleApplication13.cpp(134,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\koche\source\repos\ConsoleApplication13\ConsoleApplication13.cpp(147,23): warning C4018: <: несоответствие типов со знаком и без знака
+  ConsoleApplication13.vcxproj -> C:\Users\koche\source\repos\ConsoleApplication13\Debug\ConsoleApplication13.exe
